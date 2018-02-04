@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="6483026b-e989-4821-9b65-75f6ec78832b">
+    <jcr:content
+        cq:name="80180781_WM.jpeg"
+        cq:parentPath="/content/dam/summit-toys"
+        dam:assetState="processed"
+        dam:relativePath="summit-toys/80180781_WM.jpeg"
+        jcr:lastModified="{Date}2017-03-29T13:40:59.438-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2017-02-08T07:32:57.298-05:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}63"
+            dam:Physicalheightininches="{Decimal}10.587301254272461"
+            dam:Physicalwidthindpi="{Long}63"
+            dam:Physicalwidthininches="{Decimal}15.873015403747559"
+            dam:Progressive="no"
+            dam:sha1="86e700f2b06d00e63aec679e9895bfbbad65a5d2"
+            dam:size="{Long}302087"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2017-02-13T15:26:59.516-05:00"
+            jcr:lastModified="{Date}2017-03-29T13:40:59.300-04:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}667"
+            tiff:ImageWidth="{Long}1000"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:XResolution="6250/99"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YResolution="6250/99"
+            xmp:CreateDate="{Date}2015-03-21T00:00:00.000-04:00"
+            xmp:CreatorTool="Adobe Stock Platform"
+            xmp:MetadataDate="{Date}2017-02-03T20:20:46.000-05:00"
+            xmp:ModifyDate="{Date}2015-03-21T00:00:00.000-04:00"
+            xmpMM:DocumentID="80180781"
+            xmpMM:InstanceID="Adobe Stock 80180781"
+            xmpRights:Marked="{Boolean}true"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
